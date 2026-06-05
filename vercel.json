@@ -1,1 +1,0 @@
-{ "cleanUrls": true, "rewrites": [ { "source": "/callback", "destination": "/callback/index.html" }, { "source": "/callback.txt", "destination": "/callback.txt" }, { "source": "/((?!callback|callback.txt).*)" , "destination": "/index.html" } ] }
