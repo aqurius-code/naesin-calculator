@@ -1,0 +1,13 @@
+<svg width="1932" height="828" viewBox="0 0 1932 828" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1932" height="828" fill="#0f0f13"/>
+  <rect x="120" y="214" width="400" height="400" fill="#6c63ff"/>
+  <rect x="187" y="387" width="80" height="160" fill="rgba(255,255,255,0.25)"/>
+  <rect x="307" y="297" width="80" height="250" fill="rgba(255,255,255,0.5)"/>
+  <rect x="427" y="243" width="80" height="304" fill="#ffffff"/>
+  <text x="227" y="368" text-anchor="middle" font-family="monospace" font-size="40" fill="rgba(255,255,255,0.6)">3</text>
+  <text x="347" y="278" text-anchor="middle" font-family="monospace" font-size="40" fill="rgba(255,255,255,0.8)">2</text>
+  <text x="467" y="224" text-anchor="middle" font-family="monospace" font-size="40" fill="#fff">1</text>
+  <text x="640" y="360" font-family="sans-serif" font-size="72" font-weight="700" fill="#ffffff">고교학점제</text>
+  <text x="640" y="460" font-family="sans-serif" font-size="72" font-weight="700" fill="#ffffff">내신계산기</text>
+  <text x="640" y="540" font-family="sans-serif" font-size="36" fill="#9090b0">5등급제 · 성취도 · 단위수 가중평균 · 등급 역산</text>
+</svg>
